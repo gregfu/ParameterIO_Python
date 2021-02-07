@@ -80,8 +80,8 @@ def run(context):
                     radioButtonGroup = inputs.addRadioButtonGroupCommandInput('radioImportExport', ' Import or Export ')
                     radioButtonGroup.isFullWidth = True
                     radioButtonItems = radioButtonGroup.listItems
-                    radioButtonItems.add('Import', True)
-                    radioButtonItems.add('Export', False)
+                    radioButtonItems.add('Import CSV', True)
+                    radioButtonItems.add('Export CSV', False)
 
                 except:
                     if ui:
