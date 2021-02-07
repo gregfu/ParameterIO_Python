@@ -3,7 +3,7 @@ Fusion API Add-In that adds a button to the UI that allows you to select a CSV (
 
 ## Installation from source (Mac):
 
-### Create directory for the source:
+### Create directory for the source
 
 ```
 $ cd ~
@@ -22,6 +22,8 @@ $ git clone https://github.com/gregfu/ParameterIO_Python.git
 ```
 $ cp -r ParameterIO_Python/ParameterIO.bundle ~/Library/Application\ Support/Autodesk/ApplicationPlugins
 ```
+
+### Remember to restart Fusion for the plugin to run.
 
 
 ## Usage:
