@@ -6,7 +6,7 @@ model parameters into a  *comma seperated values (CSV)*  file.
 
 This plugin is available directly from Autodesk's App Store where you can
 download it with a convenient installer for you platform. However, if you 
-would like to make modification to the source python source code an installation
+would like to make modification to the python source code, an installation
 from source may be the right thing for you.
 
 
