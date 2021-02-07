@@ -1,6 +1,6 @@
 # Parameter I/O (ApplicationPlugin, Python)
 Fusion 360 Application Plugin that enables exporting and importing 
-model parameters into a  *comma seperated values (CSV)*  file.
+model parameters into a  **comma seperated values (CSV)** file.
 
 ## Intallation
 
@@ -12,7 +12,7 @@ from source may be the right thing for you.
 
 ## Installation from source (Mac):
 
-*Ensure to restart Fusion 360 after installation of this plugin.*
+**Ensure to restart Fusion 360 after installation of this plugin.**
 
 ### Create directory for the source
 
